@@ -1,0 +1,7 @@
+DB_USERNAME: "postgres"
+DB_PASSWORD: "password"
+DB_NAME: "postgres"
+DB_PORT: "5432"
+DB_HOST: "localhost"
+APPLICATION_PORT : ":8080"
+
